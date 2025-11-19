@@ -36,38 +36,38 @@
 ## 🚀 Tech Stack & Tools
 
 ### 📝 Programming Languages
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=js,c,cpp,java&perline=8" />
 </p>
 
 ### 🧱 Frontend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next&perline=8" />
 </p>
 
 ### 🖥️ Backend & Security
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express&perline=8" />
   <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="40" height="40" alt="JWT" />
 </p>
 
 ### 🗄️ Database
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb&perline=8" />
 </p>
 
 ### 🎨 Design & UI/UX
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=figma&perline=8" />
 </p>
 
 ### 🛠️ Development Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=8" />
 </p>
 
 ### 🚀 Deployment & Hosting
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase&perline=8" />
 </p>
 
