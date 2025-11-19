@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://your-banner-url.com/banner.gif" alt="MERN Stack Developer Banner"/>
+  <img   src="https://i.ibb.co.com/TB50rRVd/github-banner-1.png" alt="MERN Stack Developer Banner"/>
 </p>
 
 
@@ -42,7 +42,7 @@
 
 ### 🧱 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,redux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next&perline=8" />
 </p>
 
 ### 🖥️ Backend & Security
@@ -74,6 +74,23 @@
 
 
 ---
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/RaiyanSohel-byte" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/raiyan-sohel-5450b71a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:afnan19262@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://facebook.com/raiyan.sohel.2024" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+</p>
+
 
 ## 📊 GitHub Analytics
 
