@@ -1,74 +1,86 @@
-<h1 align="center">Hi 👋, I'm <b>Raiyan</b></h1>
-<h3 align="center">🚀 MERN Stack Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raiyansohel-byte&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://your-banner-url.com/banner.gif" alt="MERN Stack Developer Banner"/>
 </p>
 
----
 
-### 💻 About Me
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi,+I'm+Raiyan+Sohel+from+Bangladesh;MERN+Stack+Developer;Full+Stack+Web+Developer;Passionate+Problem+Solver" />
+</h1>
 
-- 🔭 I’m currently working on **MERN stack projects**
-- 🌱 I’m learning **Next.js, TypeScript & Advanced Backend Development**
-- 👯 I’m looking to collaborate on **Open Source MERN Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Firebase, Tailwind CSS**
-- 📫 Reach me at **raiyansohel1@gmail.com**
-- ⚡ Fun fact: *I turn caffeine ☕ into clean code*
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raiyansohel-byte&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiyansohel-byte&theme=tokyonight" alt="GitHub streak" />
+  <a href="#"><img src="https://img.shields.io/badge/Focus-MERN%20Stack-0ea5e9?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Currently_Learning-Next.js-blue?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Bangladesh-199900?style=for-the-badge"></a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🧑‍💻 About Me
 
-<p align="left">
-  <a href="https://twitter.com/raiyansohel1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
+🎯 A passionate **MERN Stack Developer** focused on writing clean, efficient, and scalable code. I love solving real-world problems and bringing ideas to life with full-stack web development.
+
+💡 **What I'm currently doing:**
+- 🔍 Exploring **Next.js & performance optimization**
+- 🚀 Building dynamic full-stack projects
+- 🎨 Enhancing UI/UX using **Tailwind CSS & Figma**
+- 📦 Experimenting with **Firebase functions**
+
+📫 **Reach me at:** `afnan19262@gmail.com`
+
+---
+
+## 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,redux,nodejs,express,mongodb,firebase,figma,git,github,vscode,vercel,netlify&perline=8" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/RaiyanSohel-byte" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://linkedin.com/in/raiyan-sohel-5450b71a1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://fb.com/raiyan.sohel.2024" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+  <a href="mailto:afnan19262@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://instagram.com/raiyansohel" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+  <a href="https://facebook.com/raiyan.sohel.2024" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RaiyanSohel-byte&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaiyanSohel-byte&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaiyanSohel-byte&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Fun Facts & Interests
+
+```yaml
+- 💻 I write code like poetry – clean, expressive, and efficient.
+- 🎯 Focused on becoming a Senior Full-Stack Developer.
+- 🤖 Obsessed with performance optimization & best practices.
+- 🔧 I believe in: "Consistency > Motivation"
+- ☕ Code + Coffee = Perfect Combo
+```
 
 ---
 
