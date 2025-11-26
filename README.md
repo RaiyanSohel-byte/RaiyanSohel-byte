@@ -115,13 +115,8 @@
 - ☕ Code + Coffee = Perfect Combo
 ```
 
----
 
-### 🎯 Quote of the Day
 
-> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
-
----
 
 <p align="center">
   ⭐️ *If you like my work, consider giving it a star or connecting with me!* ⭐️
