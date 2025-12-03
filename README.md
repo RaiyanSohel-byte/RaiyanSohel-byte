@@ -28,7 +28,7 @@
 - 🎨 Enhancing UI/UX using **Tailwind CSS & Figma**
 - 📦 Experimenting with **Firebase functions**
 
-📫 **Reach me at:** `afnan19262@gmail.com`
+📫 **Reach me at:** `raiyansohel22@gmail.com`
 
 ---
 
